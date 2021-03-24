@@ -541,7 +541,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Enum Cohrs
 1. Eric Hodel
 1. Erick Perez Castellanos
-1. Eric Rösch
 1. Eric Schrock
 1. Eric Shamow
 1. Eric "Sheppy" Shepherd
@@ -1461,6 +1460,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Simeon "n0emis" Keske
 1. Simeon Smith
 1. Simon Bowie
+1. Simon Cozens
 1. Simonetta Batteiger
 1. Simon McVittie (Collabora, Debian Technical Committee member)
 1. Simon Menke (`fd`)
@@ -1526,7 +1526,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Theo Schlossnagle
 1. TheSpiritingPoet
 1. Thierry Carrez (Open Infrastructure Foundation, Python Software Foundation fellow)
-1. Thijs van der Vossen (Fingertips)
 1. Thomas Belvin
 1. Thomas Castleman (`Batcastle`, Drauger OS Founder and Lead Developer)
 1. Thomas Guillem (VLC developer)
