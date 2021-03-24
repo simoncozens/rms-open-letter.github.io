@@ -154,7 +154,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Andre Klapper (GNOME)
 1. Andrés Hernández "`tonejito`" (LIDSoL)
 1. Andres Salomon (Debian Developer)
-1. Andrés Torres
 1. Andrew Cherry
 1. Andrew Dona-Couch
 1. Andrew J. Stephen
@@ -331,7 +330,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Chris Desnoyers
 1. Chris DiBona (Google LLC.)
 1. Chris Garaffa (Tech for the People)
-1. Chris Gardner
 1. Chris Hoge
 1. Chris Holdgraf (2i2c, Project Jupyter)
 1. Chris Johnson
@@ -533,7 +531,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Emily Strickland
 1. Emma Best (Distributed Denial of Secrets)
 1. Emmanuele Bassi (GNOME Foundation)
-1. Emmanuel Large
 1. Enio Gemmo (LibreItalia Chairman)
 1. Enrico Zini (Debian Developer)
 1. Enum Cohrs
@@ -1455,6 +1452,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Simeon "n0emis" Keske
 1. Simeon Smith
 1. Simon Bowie
+1. Simon Cozens
 1. Simonetta Batteiger
 1. Simon McVittie (Collabora, Debian Technical Committee member)
 1. Simon Menke (`fd`)
